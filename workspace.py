@@ -7,7 +7,7 @@ import res
 
 #Creating the Size of the Form and title
 base = Tk()
-base.title("Page D'Inscription")
+base.title("Page D'Inscrip")
 base.geometry("600x550")
 base.eval('tk::PlaceWindow . center')
 base.resizable(False,False)
